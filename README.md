@@ -1,2 +1,2 @@
 # CS50
-CS50 fun fair
+Harvadx CS50 Introduction to Computer Science Course Work
